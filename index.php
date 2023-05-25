@@ -8,10 +8,6 @@ require_once('helpers/autoloader.php');
 
 // On instancie 2 objets Person
 
-// On va afficher l'attribut name de ces personnes
-
-// On vérifie si ces personnes ont atteint l'âge adulte ( avec un opérateur ternaire )
-
 /**
  * Employee
  */
